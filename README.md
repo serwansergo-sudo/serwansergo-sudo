@@ -10,6 +10,7 @@ I build practical developer tools, Windows desktop applications, AI-assisted wor
 
 | Project | What it is | Status |
 |---|---|---|
+| [Repo Safety Check](https://github.com/serwansergo-sudo/repo-safety-check) | Dependency-free pre-publish safety scanner for repositories | **Public source · 6/6 tests · CI** |
 | [SERGO Harness](https://github.com/serwansergo-sudo/sergo-harness-showcase) | Architecture-aware development harness for controlled AI-assisted software work | Active development · private source · **432/432 tests passed** |
 | [ShipVerdict](https://github.com/serwansergo-sudo/shipverdict-showcase) | Local release-readiness tooling for AI-built applications | Pre-release · private source |
 | [FinStab](https://github.com/serwansergo-sudo/finstab-showcase) | AI-assisted personal finance application | Beta · private source · TypeScript validation passed |
