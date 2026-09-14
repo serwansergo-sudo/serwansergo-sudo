@@ -4,28 +4,27 @@
 
 I build practical developer tools, Windows desktop applications, AI-assisted workflows and automation for real problems.
 
-## Featured work
+**TypeScript · Node.js · React · Electron · AI Automation · Developer Tools**
 
-### SERGO Harness — private source
-Architecture-aware development harness for controlled AI-assisted software work.
-**Status:** active development. Local verification on 2026-09-14: **432/432 automated tests passed**.
+## Selected work
 
-### ShipVerdict — private source
-Local release-readiness tooling for AI-built applications with inspectable checks and reports.
-**Status:** pre-release; packaging and final release hardening are in progress.
+| Project | What it is | Status |
+|---|---|---|
+| [SERGO Harness](https://github.com/serwansergo-sudo/sergo-harness-showcase) | Architecture-aware development harness for controlled AI-assisted software work | Active development · private source · **432/432 tests passed** |
+| [ShipVerdict](https://github.com/serwansergo-sudo/shipverdict-showcase) | Local release-readiness tooling for AI-built applications | Pre-release · private source |
+| [FinStab](https://github.com/serwansergo-sudo/finstab-showcase) | AI-assisted personal finance application | Beta · private source · TypeScript validation passed |
+| [Q2 Profit](https://github.com/serwansergo-sudo/q2-profit-showcase) | 3D-print production and profitability management tool | Internal tool · private source |
 
-### FinStab — private source
-AI-assisted finance application built with React, TypeScript, Express and Supabase.
-**Status:** beta. TypeScript validation passed locally on 2026-09-14.
+## What I work with
 
-### Q2 Profit — private source
-Internal tool for 3D-print production economics: filament, print history, cost, defects, R&D, sales and monthly reporting.
-**Status:** internal production tool; public release is not planned yet.
-
-## Technologies used across my projects
 TypeScript · JavaScript · Node.js · React · Electron · Express · Supabase · Git · CLI tooling · automated tests · FFmpeg · Remotion
 
 ## Current focus
+
 Building reliable AI-assisted development infrastructure and turning working internal tools into production-ready products.
 
-> Portfolio repositories contain selected documentation only. Commercial and internal source code remains private.
+## Open to
+
+AI automation, TypeScript/Node.js, internal tooling, product engineering and project-based work.
+
+> Portfolio showcase repositories contain selected documentation only. Commercial, internal and personal source code remains private.
